@@ -1,0 +1,9 @@
+body{
+    background-color:#2c2929;
+    color:#fff;
+}
+
+h2{
+    display:flex;
+    gap:150px;
+}
